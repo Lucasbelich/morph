@@ -1,0 +1,17 @@
+#idForm{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    gap: 10px
+    
+}
+
+
+ #nameForm{
+    width: 200px;
+
+}
+#surnameForm{
+    width: 200px;
+}
+
